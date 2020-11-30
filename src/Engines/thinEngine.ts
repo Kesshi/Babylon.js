@@ -165,7 +165,7 @@ export class ThinEngine {
      * Returns the current version of the framework
      */
     public static get Version(): string {
-        return "4.2.0";
+        return "4.2.0-egr.1";
     }
 
     /**
